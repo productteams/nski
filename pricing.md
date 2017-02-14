@@ -10,20 +10,25 @@ permalink: /pricing/
 
 <div class="columns">
   <ul class="price">
-    <li class="header">SkiWeek Pass </li>
-    <li class="grey">$ 59/week</li>
+    <li class="header">Local Pass </li>
+    <li class="grey">$ 9/ year</li>
     <li>Traffic Predictions</li>
     <li>Morning Flash</li>
     <li>BackHome Flash</li>
     <li>North Tahoe Merchant Specials/Discounts</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    <li class="grey"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="YNT63SPK3S6WU">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></li>
   </ul>
 </div>
 
 <div class="columns">
   <ul class="price">
-    <li class="header" style="background-color:#4CAF50">SkiSeason Pass</li>
-    <li class="grey">$ 190 / season</li>
+    <li class="header" style="background-color:#4CAF50">Home Owner<br> Annual Pass</li>
+    <li class="grey">$ 190 / 12 months</li>
     <li>Dedicated Concierge</li>
     <li>Ski Storage</li>
     <li>VIP Event Access </li>
@@ -40,14 +45,19 @@ permalink: /pricing/
 
 <div class="columns">
   <ul class="price">
-    <li class="header">Annual Pass</li>
+    <li class="header">Platinum <br>Annual Pass</li>
     <li class="grey">$ 349 / 12 months</li>
     <li>Dedicated Concierge</li>
     <li>Plan Your Year services</li>
     <li>HomeOwners Tasks Services </li>
     <li>VIP Parking Access </li>
     <li>VIP RIdes (less than 15 min wait or its free)</li>
-    <li class="grey"><a href="#" class="button">Sign Up</a></li>
+    <li class="grey"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="YNT63SPK3S6WU">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></li>
   </ul>
 </div>
 
@@ -58,4 +68,3 @@ permalink: /pricing/
        c.parentNode.insertBefore(n,c);
     }();
 </script>
-
